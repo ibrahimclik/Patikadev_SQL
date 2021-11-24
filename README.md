@@ -1,2 +1,2 @@
 # Patikadev_SQL
-C# Patikası sql komutları
+C# Patikası SQL Eğitimi Alıştırmaları
